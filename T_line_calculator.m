@@ -1,3 +1,6 @@
+%BARCODE ENCODER
+%AUTHOR: LAKSHMI NAIR
+
 m = 1;
 while m==1
 
