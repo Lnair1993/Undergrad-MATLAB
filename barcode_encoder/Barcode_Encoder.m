@@ -1,5 +1,8 @@
+%BARCODE ENCODER
+%AUTHOR: LAKSHMI NAIR
+
 import Barcode1.*;   %Get the constants declared in Barcode1
-Barcode1
+Barcode1             
 In = input('Enter input: ','s');
 deltr = 'bWbwBwBwb';
 x = 0;
